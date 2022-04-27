@@ -100,5 +100,4 @@ def cookie_manager():
 cookie_manager()
 
 
-# 1650990586.3867166
-# driver.quit()
+
